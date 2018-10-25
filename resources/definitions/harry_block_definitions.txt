@@ -1,0 +1,26 @@
+# default values for blocks
+default height:8 width:8 hit_points:1
+
+# block definitions
+bdef symbol:g hit_points:1 fill:color(RGB(197,155,19))
+bdef symbol:y hit_points:1 fill:color(RGB(242,216,43))
+bdef symbol:f hit_points:1 fill:color(RGB(243,238,172))
+bdef symbol:b hit_points:1 fill:color(RGB(81,75,0))
+bdef symbol:B hit_points:1 fill:color(RGB(5,7,2))
+bdef symbol:R hit_points:1 fill:color(RGB(56,50,38))
+bdef symbol:S hit_points:1 fill:color(RGB(248,173,152))
+bdef symbol:G hit_points:1 fill:color(RGB(125,130,123))
+bdef symbol:E hit_points:1 fill:color(RGB(244,245,229))
+bdef symbol:H hit_points:1 fill:color(RGB(106,90,56))
+bdef symbol:D hit_points:1 fill:color(RGB(55,53,32))
+bdef symbol:s hit_points:1 fill:color(RGB(66,71,64))
+bdef symbol:r hit_points:1 fill:color(RGB(181,20,0))
+bdef symbol:q hit_points:1 fill:color(RGB(46,33,17))
+bdef symbol:Q hit_points:1 fill:color(RGB(137,81,30))
+bdef symbol:t hit_points:1 fill:color(RGB(139,63,27))
+bdef symbol:v hit_points:1 fill:color(RGB(45,48,41))
+bdef symbol:a hit_points:1 fill:color(RGB(240,156,66))
+bdef symbol:A hit_points:1 fill:color(RGB(204,126,44))
+
+# spacers definitions
+sdef symbol:- width:8
